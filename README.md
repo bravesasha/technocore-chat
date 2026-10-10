@@ -375,4 +375,4 @@ smoke-tests the image — nothing else exercises the Dockerfile. Python is pinne
 places that must agree (`.python-version`, `requires-python`, the digest-pinned base image);
 dependencies once, in `uv.lock`, which the image installs from.
 
-[↑ Back to top](#technocore)
+[↑ Back to top](#technocore-chat)
